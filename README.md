@@ -1,4 +1,4 @@
-### Hi there 👋
+### Witaj na moim profilu drogi użytkowniku! 👋
 
 <!--
 **this0is0kuba/this0is0kuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
