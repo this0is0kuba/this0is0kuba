@@ -8,4 +8,3 @@ My name is Jakub Rakuś and I am a student of Computer Science and Intelligent S
 **Programming languages of my choice:**
 * Java
 * Python
-* C++
